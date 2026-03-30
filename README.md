@@ -9,7 +9,7 @@
 
 Soy desarrolladora Full Stack formada en un bootcamp, con experiencia construyendo aplicaciones web utilizando JavaScript en frontend y backend.
 
-Me interesa crear soluciones eficientes, aprender nuevas tecnologías y seguir creciendo profesionalmente en el mundo del desarrollo.
+Me interesa crear soluciones eficientes, aprender nuevas tecnologías y seguir creciendo profesionalmente en el mundo del desarrollo 🌱.
 
 ---
 
@@ -50,14 +50,6 @@ Ecommerce de ropa con frontend en HTML5, CSS3 y JavaScript, backend con Node.js 
 
 👉 Puedes ver más en mi GitHub:
 https://github.com/danipvh
-
----
-
-## 🌱 Actualmente aprendiendo
-
-* Autenticación y seguridad (JWT, bcrypt)
-* Mejores prácticas en backend
-* Optimización de aplicaciones React
 
 ---
 
