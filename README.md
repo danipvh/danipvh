@@ -43,8 +43,10 @@ Me interesa crear soluciones eficientes, aprender nuevas tecnologías y seguir c
 🔹 **e-Commerce VS Tienda**
 Ecommerce de ropa con frontend en HTML5, CSS3 y JavaScript, backend con Node.js + Express, autenticación JWT y PostgreSQL.
 
-![alt text](vstienda1.png)
-![alt text](vstienda2.png)
+<img width="944" height="411" alt="vstienda1" src="https://github.com/user-attachments/assets/63346831-f7e3-4340-b64e-0c63b0272cb1" />
+
+<img width="941" height="412" alt="vstienda2" src="https://github.com/user-attachments/assets/461167be-c312-4eb4-b0d3-e8c4b23c10f9" />
+
 
 👉 Puedes ver más en mi GitHub:
 https://github.com/danipvh
